@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Sam 🖖
 
-<!--
-**sam-smart-byte/sam-smart-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, programming is my hobby
 
-Here are some ideas to get you started:
+I started on Windows, jumped on MacOs and currently using it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm pretty good on bash and have a lot of expirience on Linux 
+
+I am the proud owner of a few Xserves, a sunfire v20z, some Mac-pro 4.1, some mac g4 MDD model and a g3, 
+
+an sgi Octane and an O2, other sun machines like the sparcstation ultra with superspark and the lx, ipx model.
+
+# How to reach me:
+
+I have a website on the blockchain using handshake [here](samuele.ioni-pfvc.hns.to).
